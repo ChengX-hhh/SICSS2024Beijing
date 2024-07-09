@@ -1,5 +1,6 @@
-# basic.ipynb
-基础爬虫
+# Class
+## day2_web_crawl&text_analysis
+基础爬虫:basic.ipynb
 - 重要的python库
     - requests # 获取所有网页内容
     - bs4(BeautifulSoup) # 解析标签内容
