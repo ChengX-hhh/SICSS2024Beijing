@@ -1,4 +1,7 @@
 # Class
+## day1_LLM
+ollama.html: cmd命令行运行的基本指令
+
 ## day2_web_crawl&text_analysis
 基础爬虫:basic.ipynb
 - 重要的python库
